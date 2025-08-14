@@ -1,4 +1,5 @@
 # veFaaS Code-Sandbox MCP Server
+[![smithery badge](https://smithery.ai/badge/@jackedelic/mcp-server)](https://smithery.ai/server/@jackedelic/mcp-server)
 
 veFaaS Code-Sandbox 的 mcp 实现，支持 python、go、java、bash等多种运行时，适用于代码调试、AI Agent 开发等场景
 
